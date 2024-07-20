@@ -12,3 +12,12 @@
 //     10) Four Examples for Communication Links ?
 //     11) What is bandwidth ?
 //     12) What is a network ?
+//  4
+//     13) Five examples for Network Connected Devices ?
+//  5
+//     14) What is done by ISP ?
+//     15) Two tasks done by Network Protocols ?
+//     16) Eight examples for Network Protocols ?
+//     17) Two Internet Standards ?
+//     18) Rest part of Request ?
+//     19) Rest part of Internet ?
